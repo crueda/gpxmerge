@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:gpxext="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" creator="tapiriik-sync">
+  <metadata>
+    <name>Evening Run</name>
+  </metadata>
+  <trk>
+    <name>Evening Run</name>
+    <trkseg>
+      <trkpt lat="42.00854" lon="-5.681453">
+        <time>2011-10-02T17:27:57+00:00</time>
+        <ele>738.9</ele>
+      </trkpt>
+      <trkpt lat="42.00854" lon="-5.681453">
+        <time>2011-10-02T17:28:04+00:00</time>
+        <ele>738.9</ele>
+      </trkpt>
+      <trkpt lat="42.008519" lon="-5.681387">
+        <time>2011-10-02T17:29:21+00:00</time>
+        <ele>738.8</ele>
+      </trkpt>
+      <trkpt lat="42.008645" lon="-5.681295">
+        <time>2011-10-02T17:29:31+00:00</time>
+        <ele>740.0</ele>
+      </trkpt>
+      <trkpt lat="42.008692" lon="-5.681465">
+        <time>2011-10-02T17:29:43+00:00</time>
+        <ele>740.2</ele>
+      </trkpt>
+      <trkpt lat="42.008652" lon="-5.681653">
+        <time>2011-10-02T17:29:56+00:00</time>
+        <ele>739.7</ele>
+      </trkpt>
+      <trkpt lat="42.008801" lon="-5.681698">
+        <time>2011-10-02T17:32:03+00:00</time>
+        <ele>740.4</ele>
+      </trkpt>
+      <trkpt lat="42.008655" lon="-5.681671">
+        <time>2011-10-02T17:33:42+00:00</time>
+        <ele>739.8</ele>
+      </trkpt>
+      <trkpt lat="42.008352" lon="-5.681816">
+        <time>2011-10-02T17:33:54+00:00</time>
+        <ele>737.5</ele>
+      </trkpt>
+      <trkpt lat="42.008343" lon="-5.681856">
+        <time>2011-10-02T17:33:58+00:00</time>
+        <ele>737.4</ele>
+      </trkpt>
+      <trkpt lat="42.008503" lon="-5.681826">
+        <time>2011-10-02T17:34:27+00:00</time>
+        <ele>738.6</ele>
+      </trkpt>
+      <trkpt lat="42.008545" lon="-5.681792">
+        <time>2011-10-02T17:34:32+00:00</time>
+        <ele>738.9</ele>
+      </trkpt>
+      <trkpt lat="42.008689" lon="-5.681625">
+        <time>2011-10-02T17:34:58+00:00</time>
+        <ele>740.1</ele>
+      </trkpt>
+      <trkpt lat="42.008729" lon="-5.68145">
+        <time>2011-10-02T17:35:06+00:00</time>
+        <ele>740.6</ele>
+      </trkpt>
+      <trkpt lat="42.008663" lon="-5.681289">
+        <time>2011-10-02T17:35:13+00:00</time>
+        <ele>740.1</ele>
+      </trkpt>
+      <trkpt lat="42.00874" lon="-5.681468">
+        <time>2011-10-02T17:35:52+00:00</time>
+        <ele>740.7</ele>
+      </trkpt>
+      <trkpt lat="42.008676" lon="-5.681301">
+        <time>2011-10-02T17:36:36+00:00</time>
+        <ele>740.2</ele>
+      </trkpt>
+      <trkpt lat="42.00869" lon="-5.681105">
+        <time>2011-10-02T17:36:47+00:00</time>
+        <ele>739.9</ele>
+      </trkpt>
+      <trkpt lat="42.008703" lon="-5.680924">
+        <time>2011-10-02T17:36:57+00:00</time>
+        <ele>739.4</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
